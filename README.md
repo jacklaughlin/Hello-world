@@ -5,7 +5,7 @@
 - [HOW TO RUN A PROGRAM](HowToRunAProgram)
 - [FILES USED](FilesUsed)
 - [ADDITIONAL DOCUMENTATION](AdditionalDocumentation)
-- [VVERSIONING](Versioning)
+- [VERSIONING](Versioning)
 
 ## Project Title
 

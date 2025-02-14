@@ -1,10 +1,10 @@
 ## Table of Contents
 
-- [PROJECT TITLE](Project Title)
+- [PROJECT TITLE](ProjectTitle)
 - [DESCRIPTION](Description)
-- [HOW TO RUN A PROGRAM](How to run a program)
-- [FILES USED](Files used)
-- [ADDITIONAL DOCUMENTATION](Additional documentation)
+- [HOW TO RUN A PROGRAM](HowToRunAProgram)
+- [FILES USED](FilesUsed)
+- [ADDITIONAL DOCUMENTATION](AdditionalDocumentation)
 - [VVERSIONING](Versioning)
 
 ## Project Title

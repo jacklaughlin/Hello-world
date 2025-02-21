@@ -13,7 +13,11 @@
 
 ## Description
 
+**learning how to bold**
+
 ## How to Run a Program
+
+*learning how to italicize*
 
 ## Files Used
 
